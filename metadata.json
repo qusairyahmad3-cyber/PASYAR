@@ -1,0 +1,6 @@
+{
+  "name": "PASYAR - Pasar Santri Syariah",
+  "description": "Marketplace digital syariah produk santri, unit usaha pesantren, dan UMKM lokal binaan DEKS Bank Indonesia & Universitas Prasetiya Mulya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
